@@ -1,2 +1,24 @@
-# assignment5-devops
-DevOps Assignment 5
+\# Assignment 5 DevOps
+
+
+
+This repository is created by saloni-0405 for DevOps Assignment 5.
+
+
+
+This assignment demonstrates:
+
+
+
+\- Git clone
+
+\- Git commit
+
+\- Git pull
+
+\- Git push
+
+\- Branching and merging
+
+
+
