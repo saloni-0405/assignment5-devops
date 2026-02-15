@@ -1,2 +1,3 @@
 This is new text file created in C1 commit.
 This file is modified in C2 commit.
+This change is made in hotfix branch (C4 commit).
